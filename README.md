@@ -1,5 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23361C00&lines=𝗛𝗶,+𝗶'𝗺+𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗲𝗿.)](https://git.io/typing-svg)
-<div align='left'>
+# [<div align='center'>![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23361C00&lines=𝗛𝗶,+𝗶'𝗺+𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗲𝗿.)](https://git.io/typing-svg)</div>
+<div align='center'>
 
 [![Readme Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&quote=The+master+suffered+more+failures+than+the+novice+had+attempts&author=someone&border=false)](https://github.com/piyushsuthar/github-readme-quotes)
 
